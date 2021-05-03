@@ -1,0 +1,3 @@
+[submodule "proguard-verifyerror"]
+	path = proguard-verifyerror
+	url = https://github.com/aveuiller/proguardBugReproduction
